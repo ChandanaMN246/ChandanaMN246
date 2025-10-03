@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandana MN  
 
-🎯 **Associate Data Scientist | Generative AI | NLP | Multi-Agent Systems**  
+🎯 **Data Scientist | Generative AI | NLP | Multi-Agent Systems**  
 
 I’m a passionate Data Scientist with **1.5+ years of experience** building production-ready AI applications.  
 I specialize in **LLMs, Generative AI, RAG, and multi-agent systems**, and I love creating impactful solutions that bridge research and real-world use cases.  
