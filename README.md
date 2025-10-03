@@ -52,6 +52,20 @@ I specialize in **LLMs, Generative AI, RAG, and multi-agent systems**, and I lov
 
 ---
 
+## 🤝 AI Tools I Use  
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white) 
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white) 
+![Cursor](https://img.shields.io/badge/Cursor-5C33BE?logo=visualstudiocode&logoColor=white) 
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white) 
+![Claude](https://img.shields.io/badge/Claude-FFD700?logo=anthropic&logoColor=black) 
+![MidJourney](https://img.shields.io/badge/MidJourney-111111?logo=midjourney&logoColor=white) 
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6F00?logo=stabilityai&logoColor=white) 
+![Notion AI](https://img.shields.io/badge/Notion%20AI-000000?logo=notion&logoColor=white) 
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)  
+
+---
+
 ## 🏆 Achievements
 - 🥇 **Gold Medalist (Batch Topper, 2020–24)** – Alliance University (AI & ML)  
 - 🏅 **Best Outgoing Student (2020–24)** – Leadership & academic excellence  
@@ -60,17 +74,14 @@ I specialize in **LLMs, Generative AI, RAG, and multi-agent systems**, and I lov
 
 ---
 
-## 📊 GitHub Stats
-![Chandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandanaMN246&show_icons=true&theme=tokyonight)  
+## 🌐 Connect with Me  
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandana-m-n-b38041250)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ChandanaMN246)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/028be525-eb3d-43da-b79c-684afaf2d19d)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chandanamn246?hr_r=1)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/chandanamn-0966/)
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/chandana-m-n-b38041250)  
-- 🐙 [GitHub](https://github.com/ChandanaMN246)  
-- 🎓 [Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/028be525-eb3d-43da-b79c-684afaf2d19d)  
-- 🧑‍💻 [HackerRank](https://www.hackerrank.com/chandanamn246?hr_r=1)  
-- 📘 [Microsoft Learn](https://learn.microsoft.com/en-us/users/chandanamn-0966/)  
 
 ---
 ✨ Always eager to learn, build, and share knowledge in AI, Cloud, and Data Science!
